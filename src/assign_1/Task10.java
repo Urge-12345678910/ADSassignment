@@ -1,3 +1,5 @@
+package assign_1;
+
 import java.util.Scanner;
 
 public class Task10 {

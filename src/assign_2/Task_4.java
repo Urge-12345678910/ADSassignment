@@ -8,7 +8,6 @@ public class Task_4 {
         for (int i = 0; i < n; i++) {
             String s1 = q.poll();
             System.out.println(s1);
-            String s2 = s1;
             q.add(s1 + "0");
             q.add(s1 + "1");
         }

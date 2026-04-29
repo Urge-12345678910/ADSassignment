@@ -15,7 +15,7 @@ public class Task_7 {
     }
     public static void main(String[] args) {
         int[] nums = {3, 2, 3, 1, 2, 4, 5, 5, 6};
-        int k = 4;
+        int k = 5;
 
         int result = findKthLargest(nums, k);
         System.out.println(k + "-th is the biggest element: " + result);
